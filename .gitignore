@@ -46,3 +46,11 @@ D5：如何新建一個 dataframe 如何讀取其他資料 (非 csv 的資料)/.
 D5：如何新建一個 dataframe 如何讀取其他資料 (非 csv 的資料)/.ipynb_checkpoints/Day_005-3_read_and_write_files-checkpoint.ipynb
 D6：EDA：欄位的資料類型介紹及處理/.ipynb_checkpoints/Day_006_column_data_type-checkpoint.ipynb
 D6：EDA：欄位的資料類型介紹及處理/.ipynb_checkpoints/Day_006_HW-checkpoint.ipynb
+D7：特徵類型/.ipynb_checkpoints/Day_007_Feature_Types-checkpoint.ipynb
+D7：特徵類型/.ipynb_checkpoints/Day_007_HW-checkpoint.ipynb
+Data/house_test.csv.gz
+Data/house_train.csv.gz
+Data/taxi_data1.csv
+Data/taxi_data2.csv
+Data/titanic_test.csv
+Data/titanic_train.csv
