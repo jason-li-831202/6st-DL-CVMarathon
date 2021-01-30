@@ -18,3 +18,4 @@ D31 - 特徵評估
 ### 4.機器學習基礎模型建立  
 D33〜D36 - 數據劃分和模型類別及評估  
 D37〜D40 - regression model 介紹  
+D41〜D46 - tree base model 介紹
