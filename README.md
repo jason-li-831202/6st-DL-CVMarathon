@@ -18,4 +18,9 @@ D31 - 特徵評估
 ### 4.機器學習基礎模型建立  
 D33〜D36 - 數據劃分和模型類別及評估  
 D37〜D40 - regression model 介紹  
-D41〜D46 - tree base model 介紹
+D41〜D42 - tree base model 介紹  
+D43〜D44 - 集成方法:Bagging (RF)  
+D45〜D46 - 集成方法:Boosting  
+D47 - 調整超參數  
+D49 - 集成方法:混合泛化Blending  
+D50 - 集成方法:堆疊泛化Stacking
