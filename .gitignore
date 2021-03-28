@@ -198,3 +198,5 @@ D82 訓練神經網路的細節與技巧 - Dropout/.ipynb_checkpoints/Day082_HW-
 D83 訓練神經網路的細節與技巧 - Batch normalization/.ipynb_checkpoints/Day083_BatchNorm-checkpoint.ipynb
 D83 訓練神經網路的細節與技巧 - Batch normalization/.ipynb_checkpoints/Day083_HW-checkpoint.ipynb
 D84 正規化機移除批次標準化的 組合與比較/.ipynb_checkpoints/Day084_HW-checkpoint.ipynb
+D85 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop/.ipynb_checkpoints/Day085_CB_EarlyStop-checkpoint.ipynb
+D85 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop/.ipynb_checkpoints/Day085_HW-checkpoint.ipynb
