@@ -205,3 +205,5 @@ D86 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model/.
 D86 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model/tmp.h5
 D87 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate/.ipynb_checkpoints/Day087_CB_ReduceLR-checkpoint.ipynb
 D87 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate/.ipynb_checkpoints/Day087HW-checkpoint.ipynb
+D88 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數/.ipynb_checkpoints/Day088_CB_CustomizedCallbacks-checkpoint.ipynb
+D88 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數/.ipynb_checkpoints/Day088_HW-checkpoint.ipynb
